@@ -1,8 +1,8 @@
 --[[
 
-	Wall Hack Module [Pakkhub] by Exunys © CC0 1.0 Universal (2023)
+	Wall Hack Module [Pakkhub] by urkstar © CC0 1.0 Universal (2023)
 
-	https://github.com/Exunys
+	https://github.com/geekinstudios
 
 ]]
 
