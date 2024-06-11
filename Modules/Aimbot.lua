@@ -1,6 +1,6 @@
 --[[
 
-	Aimbot Module [Pakkhub] by Exunys © CC0 1.0 Universal (2023)
+	Aimbot Module [Pakkhub] by Urkstar © CC0 1.0 Universal (2023)
 
 	https://github.com/GeekinStudios
 
